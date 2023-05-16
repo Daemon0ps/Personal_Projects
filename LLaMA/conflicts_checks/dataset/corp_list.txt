@@ -1,0 +1,34 @@
+Company,CO,CO.
+Corporation,CORP.
+Limited,LTD,LTD.,L.T.D.
+Incorporated,INC,INC.
+Limited Partnership,LP,LP.,L.P.
+Limited Liability Partnership,LLP,LLP.,L.L.P.
+Limited Liability Limited Partnership,LLLP,LLLP.,L.L.L.P.
+registered limited liability partnership,RLLP,RLLP.,R.L.L.P.
+registered limited liability limited partnership,RLLLP,RLLLP.,R.L.L.L.P.
+Limited Liability Company,LLC,LLC.,L.L.C.
+Holding Company,HOLDCO,HoldCo.
+OpCo,OpCo.
+Trust
+Charitable Trust
+Manufacturing,MFR,MFR.
+L3C,L3C.
+SLP,SLP.
+CIO,CIO.,C.I.O.
+CIC,CIC.,C.I.C.
+AG,AG.,A.G.
+GmbH,GmbH.
+PLC,PLC.,P.L.C.
+GP,GP.
+GMK,GMK.
+GSK,GSK.
+SARF,SARF.,S.A.R.F.
+SP,SP.,S.P.
+SA,SA.,S.A.
+PLLC,PLLC.,P.L.L.C.
+OHG,OHG.,O.H.G.
+GbR
+AB SA,AB. SA.,A.B. S.A.
+AB,AB.,A.B.
+SA,SA.,S.A.

@@ -1,0 +1,33 @@
+ab sa,ab. sa.,a.b. s.a.
+ab,ab.,a.b.
+ag,ag.,a.g.
+cic,cic.,c.i.c.
+cio,cio.,c.i.o.
+charitable trust
+company,co,co.
+corporation,corp.
+gmk,gmk.
+gp,gp.
+gsk,gsk.
+gbr
+gmbh,gmbh.
+holding company,holdco,holdco.
+incorporated,inc,inc.
+l3c,l3c.
+limited liability company,llc,llc.,l.l.c.
+limited liability limited partnership,lllp,lllp.,l.l.l.p.
+limited liability partnership,llp,llp.,l.l.p.
+limited partnership,lp,lp.,l.p.
+limited,ltd,ltd.,l.t.d.
+manufacturing,mfr,mfr.
+ohg,ohg.,o.h.g.
+opco,opco.
+plc,plc.,p.l.c.
+pllc,pllc.,p.l.l.c.
+sa,sa.,s.a.
+sarf,sarf.,s.a.r.f.
+slp,slp.
+sp,sp.,s.p.
+trust
+registered limited liability limited partnership,rlllp,rlllp.,r.l.l.l.p.
+registered limited liability partnership,rllp,rllp.,r.l.l.p.
